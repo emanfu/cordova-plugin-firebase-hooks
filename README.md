@@ -1,3 +1,5 @@
+***DEPRECATION NOTICE: this plugin is no longer mainteined. All cordova firebase plugins are depended on [cordova-plugin-firebase-analytics](https://github.com/chemerisuk/cordova-plugin-firebase-analytics).***
+
 # cordova-plugin-firebase-hooks
 Cordova firebase plugin starter
 
